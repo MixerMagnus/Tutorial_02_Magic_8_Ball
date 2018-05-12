@@ -6,7 +6,7 @@ namespace Tutorial_02
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("This is a NEW test to see how changes get saved.");
+            Console.WriteLine("This is a NEW Branch. This should not affect my main file.");
         }
     }
 }
